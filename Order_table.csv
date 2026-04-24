@@ -1,0 +1,151 @@
+Order_id,Customer_id,Restaurant_id,Order_date,Delivery_time,Status,Total_amount,Payment_mode,Discount_applied,Feedback_rating
+1,2828,8843,2026-03-20,03:26:49,on the way,1737,bank_transfer,discount_applied,5
+2,4771,2095,2026-02-17,18:19:47,on the way,1481,Card_payment,discount_applied,3
+3,3411,7133,2026-04-13,01:14:13,on the way,553,Card_payment,not_applicable,3
+4,2871,8835,2026-01-16,12:06:01,Delivered,1010,Card_payment,not_applicable,5
+5,5417,1330,2025-07-26,03:03:01,on the way,1909,UPI,not_applicable,5
+6,9572,6465,2025-11-03,00:17:25,preparing,369,Gpay,not_applicable,2
+7,1602,5436,2025-08-11,13:40:19,on the way,590,Card_payment,not_applicable,4
+8,1521,9016,2025-12-18,08:14:17,on the way,1164,UPI,discount_applied,2
+9,1046,440,2026-03-28,13:58:08,preparing,1199,cash_on_delivery,not_applicable,4
+10,5229,3793,2025-06-10,17:36:41,on the way,421,bank_transfer,not_applicable,1
+11,5601,1206,2025-12-04,17:05:25,Delivered,855,bank_transfer,not_applicable,2
+12,5586,2006,2025-09-13,05:31:04,Delivered,287,bank_transfer,discount_applied,1
+13,1645,4476,2026-04-21,18:36:51,packing,1794,Card_payment,not_applicable,4
+14,1436,7882,2025-06-22,05:12:31,on the way,1326,Card_payment,discount_applied,5
+15,7394,2577,2026-04-22,20:28:32,preparing,322,bank_transfer,discount_applied,5
+16,7537,1769,2025-09-05,23:28:29,packing,826,bank_transfer,discount_applied,3
+17,3822,2338,2025-05-14,12:46:34,preparing,180,Gpay,discount_applied,3
+18,6645,6032,2026-02-26,04:53:10,packing,1568,Gpay,not_applicable,4
+19,2460,4482,2025-09-29,18:00:48,preparing,343,Gpay,not_applicable,2
+20,4543,2652,2025-09-27,00:36:30,on the way,388,Card_payment,discount_applied,5
+21,2093,4702,2025-07-10,13:03:41,preparing,973,cash_on_delivery,not_applicable,2
+22,638,6015,2026-01-18,22:35:14,Delivered,376,bank_transfer,discount_applied,1
+23,1578,9976,2026-03-21,03:46:31,preparing,1508,UPI,discount_applied,5
+24,7439,9625,2025-09-17,15:21:11,preparing,1013,bank_transfer,discount_applied,5
+25,9322,1536,2026-01-24,02:50:24,on the way,1481,bank_transfer,not_applicable,5
+26,9401,182,2025-10-22,03:34:52,on the way,189,Gpay,discount_applied,5
+27,6895,511,2026-04-08,12:09:12,on the way,1865,Card_payment,not_applicable,2
+28,6391,5305,2025-11-02,12:44:40,packing,218,cash_on_delivery,not_applicable,2
+29,8129,2940,2026-03-12,08:52:04,packing,1771,cash_on_delivery,discount_applied,3
+30,659,8506,2025-08-29,07:38:26,packing,858,bank_transfer,not_applicable,1
+31,3132,1599,2025-11-02,00:13:52,Delivered,487,cash_on_delivery,discount_applied,3
+32,4985,8356,2026-02-14,22:35:51,on the way,366,UPI,discount_applied,4
+33,7851,5975,2026-01-03,06:29:19,preparing,200,Gpay,not_applicable,2
+34,3305,2591,2025-10-18,15:23:56,on the way,1547,cash_on_delivery,discount_applied,2
+35,4827,7912,2025-05-17,22:26:39,packing,1440,Card_payment,discount_applied,3
+36,4556,4024,2026-02-09,08:22:19,packing,251,UPI,discount_applied,4
+37,37,4807,2025-12-18,22:54:10,Delivered,1169,bank_transfer,discount_applied,3
+38,7679,2004,2026-01-18,16:13:45,packing,484,Card_payment,discount_applied,4
+39,6815,8605,2026-02-11,12:07:56,Delivered,476,bank_transfer,discount_applied,4
+40,5635,7869,2026-03-26,00:28:31,packing,660,cash_on_delivery,not_applicable,5
+41,9365,4930,2025-10-20,05:15:00,preparing,763,cash_on_delivery,not_applicable,2
+42,2443,3810,2025-09-26,00:02:39,Delivered,1145,cash_on_delivery,not_applicable,3
+43,6967,1468,2025-08-20,07:07:21,Delivered,1001,UPI,not_applicable,1
+44,9196,6437,2026-03-12,20:16:33,Delivered,1617,cash_on_delivery,not_applicable,5
+45,2571,8657,2025-07-12,04:33:54,Delivered,1449,Card_payment,discount_applied,5
+46,2456,3472,2026-03-26,18:54:56,packing,912,cash_on_delivery,discount_applied,5
+47,8669,7510,2026-02-16,19:31:12,preparing,385,UPI,discount_applied,5
+48,2193,9580,2025-06-22,14:11:02,Delivered,150,cash_on_delivery,not_applicable,4
+49,5014,8381,2025-08-30,11:07:55,Delivered,675,UPI,discount_applied,4
+50,388,4863,2025-06-01,12:44:27,preparing,173,Card_payment,not_applicable,3
+51,3998,9434,2025-10-30,14:02:00,on the way,898,cash_on_delivery,not_applicable,1
+52,6586,5467,2025-07-29,08:20:49,preparing,928,Gpay,discount_applied,4
+53,9260,3109,2025-11-19,06:11:52,packing,1845,UPI,discount_applied,4
+54,8187,9723,2025-12-03,07:19:57,Delivered,1989,UPI,discount_applied,2
+55,8921,4206,2025-12-03,15:22:57,Delivered,383,bank_transfer,discount_applied,2
+56,5437,5583,2025-08-31,13:28:52,preparing,399,UPI,discount_applied,4
+57,680,8968,2025-09-22,02:26:11,on the way,1862,Gpay,discount_applied,4
+58,3279,7841,2025-07-22,19:06:03,packing,1712,Card_payment,discount_applied,4
+59,3176,1848,2025-11-13,18:14:29,packing,1898,cash_on_delivery,discount_applied,5
+60,7212,385,2026-04-10,01:32:16,preparing,396,cash_on_delivery,discount_applied,3
+61,1154,6228,2025-07-27,16:20:39,Delivered,601,cash_on_delivery,discount_applied,4
+62,5602,7502,2025-08-21,07:49:34,on the way,1577,bank_transfer,discount_applied,5
+63,6999,8321,2026-02-11,08:09:16,packing,1159,bank_transfer,not_applicable,5
+64,5261,2043,2025-10-17,10:36:26,on the way,1483,Gpay,not_applicable,1
+65,9747,9667,2025-06-15,03:52:42,on the way,1468,Card_payment,discount_applied,5
+66,4832,4766,2025-11-22,08:37:13,preparing,847,Card_payment,not_applicable,3
+67,2374,3092,2025-05-01,00:42:24,packing,735,bank_transfer,not_applicable,4
+68,1930,4700,2025-05-22,01:44:18,packing,546,cash_on_delivery,discount_applied,2
+69,4878,7365,2025-12-27,12:16:25,on the way,486,cash_on_delivery,discount_applied,2
+70,8297,2509,2026-03-17,07:23:38,Delivered,1772,UPI,not_applicable,3
+71,2749,7086,2026-04-03,21:15:58,Delivered,1503,Gpay,not_applicable,1
+72,1730,5076,2025-05-14,23:28:40,packing,1727,UPI,not_applicable,3
+73,51,7995,2025-08-28,09:06:12,preparing,557,Gpay,discount_applied,2
+74,3255,3799,2025-12-16,08:56:39,preparing,421,Card_payment,not_applicable,5
+75,5164,6297,2026-02-14,08:41:55,packing,738,UPI,discount_applied,4
+76,6675,3575,2025-06-05,17:51:41,packing,195,bank_transfer,not_applicable,3
+77,837,5092,2025-09-08,10:14:19,Delivered,1026,bank_transfer,discount_applied,1
+78,4248,4439,2025-06-12,22:53:40,preparing,1651,Card_payment,discount_applied,4
+79,7826,2928,2025-08-22,08:30:01,on the way,2000,bank_transfer,discount_applied,5
+80,2228,3345,2025-04-23,00:28:51,on the way,334,bank_transfer,discount_applied,2
+81,8208,6873,2025-05-16,21:57:45,Delivered,1408,Card_payment,not_applicable,2
+82,7167,6903,2025-09-09,06:40:40,on the way,512,bank_transfer,not_applicable,4
+83,2098,2907,2025-11-14,08:14:03,on the way,1548,UPI,not_applicable,5
+84,5022,4226,2025-05-10,23:41:08,Delivered,1635,Gpay,discount_applied,1
+85,7605,319,2025-06-14,01:05:59,preparing,382,UPI,not_applicable,2
+86,7070,6634,2025-10-10,05:57:41,preparing,1982,Card_payment,discount_applied,3
+87,8706,599,2025-09-02,16:21:11,on the way,652,Card_payment,not_applicable,4
+88,7832,2955,2025-06-20,00:51:29,Delivered,1952,bank_transfer,not_applicable,4
+89,6916,2708,2025-11-11,02:02:42,preparing,800,Card_payment,discount_applied,4
+90,8454,4907,2026-02-15,00:24:08,preparing,408,UPI,discount_applied,5
+91,1603,9150,2025-07-10,22:17:31,on the way,774,Gpay,not_applicable,5
+92,3988,7255,2025-05-13,13:18:23,on the way,1137,UPI,discount_applied,3
+93,2437,9435,2025-09-28,23:56:21,on the way,641,Card_payment,not_applicable,1
+94,4661,1788,2025-05-14,19:52:08,Delivered,1320,Card_payment,not_applicable,1
+95,1393,4217,2025-11-01,09:50:03,packing,657,Card_payment,not_applicable,5
+96,1569,3815,2025-09-19,18:29:31,packing,1936,Card_payment,not_applicable,1
+97,1666,495,2025-08-21,20:34:25,on the way,885,cash_on_delivery,not_applicable,2
+98,8892,9229,2025-07-10,11:55:34,on the way,126,UPI,not_applicable,4
+99,8274,5913,2026-03-27,15:14:50,Delivered,1308,Gpay,not_applicable,2
+100,8742,447,2025-05-20,02:24:17,Delivered,1437,Gpay,discount_applied,4
+101,174,4089,2026-01-25,17:33:40,packing,946,cash_on_delivery,discount_applied,3
+102,3728,177,2025-09-25,04:42:50,Delivered,1820,Gpay,discount_applied,3
+103,1664,7434,2025-10-06,07:53:18,preparing,1990,UPI,not_applicable,1
+104,3082,4991,2026-02-26,08:01:00,Delivered,1621,bank_transfer,not_applicable,5
+105,7178,6665,2025-11-02,17:45:58,Delivered,1211,Card_payment,discount_applied,2
+106,9745,4033,2025-08-08,13:02:16,preparing,612,cash_on_delivery,discount_applied,2
+107,6032,9764,2025-07-20,15:47:18,preparing,1029,bank_transfer,discount_applied,3
+108,8507,5432,2025-05-29,03:22:56,packing,1774,UPI,discount_applied,3
+109,219,2343,2025-11-16,11:09:13,on the way,728,UPI,not_applicable,4
+110,5747,3744,2025-04-23,12:03:59,preparing,1153,Gpay,discount_applied,5
+111,1492,9050,2025-11-23,10:38:01,Delivered,412,UPI,discount_applied,4
+112,851,3400,2025-08-06,23:25:19,preparing,1085,bank_transfer,not_applicable,4
+113,698,7120,2025-10-07,20:57:15,packing,700,bank_transfer,discount_applied,2
+114,1019,3953,2025-11-19,23:02:00,preparing,372,Card_payment,not_applicable,3
+115,8127,8275,2025-08-05,11:42:54,Delivered,244,bank_transfer,discount_applied,1
+116,2893,3465,2026-01-20,07:55:21,on the way,1343,UPI,not_applicable,5
+117,4633,340,2025-10-28,13:28:41,preparing,236,bank_transfer,not_applicable,4
+118,7454,6948,2025-05-06,05:10:06,preparing,880,bank_transfer,not_applicable,3
+119,9796,3095,2025-10-18,00:04:13,preparing,495,Card_payment,not_applicable,1
+120,4252,9173,2025-07-06,21:32:28,packing,1222,cash_on_delivery,discount_applied,2
+121,7362,2679,2025-08-10,03:12:46,preparing,1149,cash_on_delivery,not_applicable,3
+122,7411,5258,2025-11-01,05:51:51,Delivered,1527,Gpay,not_applicable,2
+123,9831,3879,2026-04-20,15:29:35,Delivered,1648,cash_on_delivery,not_applicable,1
+124,9673,7560,2026-02-18,15:01:04,on the way,541,Gpay,not_applicable,3
+125,3495,5313,2025-11-11,08:13:28,preparing,1337,bank_transfer,not_applicable,3
+126,1566,9948,2025-09-26,06:22:33,Delivered,1512,Card_payment,not_applicable,5
+127,1006,8287,2025-12-13,18:26:38,packing,1294,bank_transfer,discount_applied,2
+128,920,997,2026-02-03,00:14:30,preparing,1095,bank_transfer,discount_applied,3
+129,8220,7106,2026-03-10,05:52:06,Delivered,1218,Gpay,discount_applied,4
+130,7759,9954,2025-11-21,20:49:16,on the way,1749,Gpay,discount_applied,1
+131,3750,7974,2025-05-12,17:00:14,packing,624,cash_on_delivery,not_applicable,5
+132,287,8914,2026-04-14,05:45:13,Delivered,1074,Gpay,not_applicable,1
+133,3074,2018,2026-03-29,08:04:25,packing,985,bank_transfer,discount_applied,1
+134,7919,4863,2025-10-15,13:21:07,on the way,995,Gpay,discount_applied,4
+135,3871,7474,2025-04-26,22:06:33,packing,1362,Gpay,not_applicable,2
+136,4663,7969,2026-01-07,03:11:31,on the way,913,Gpay,discount_applied,3
+137,8354,5582,2025-08-21,17:52:19,packing,404,cash_on_delivery,not_applicable,2
+138,2839,5038,2025-06-30,19:58:00,on the way,1867,Card_payment,discount_applied,5
+139,2043,6916,2025-06-20,16:01:53,Delivered,900,Gpay,discount_applied,3
+140,4266,4238,2026-02-19,04:24:44,preparing,689,cash_on_delivery,not_applicable,1
+141,9384,7315,2025-10-11,23:47:48,packing,412,cash_on_delivery,not_applicable,1
+142,7162,374,2025-09-25,18:15:37,packing,415,Gpay,not_applicable,5
+143,3253,2210,2026-03-24,09:59:54,on the way,1180,bank_transfer,not_applicable,1
+144,8745,6281,2025-06-01,15:34:34,Delivered,986,Gpay,not_applicable,1
+145,6679,2683,2025-12-10,06:04:05,on the way,379,cash_on_delivery,not_applicable,3
+146,2689,939,2025-12-04,14:50:05,on the way,1310,Card_payment,discount_applied,3
+147,9923,3377,2026-02-24,03:17:53,on the way,655,Gpay,discount_applied,2
+148,7687,9976,2026-02-02,21:17:09,packing,679,UPI,not_applicable,1
+149,4132,5793,2026-01-26,02:07:01,packing,659,Gpay,not_applicable,1
+150,7580,1341,2025-10-08,01:09:13,packing,1763,cash_on_delivery,not_applicable,5

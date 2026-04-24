@@ -1,0 +1,294 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+1,Tanay Vig,bajajurvi@example.org,04256090435,"942, Chaudhari Chowk
+Haldia 730999",2025-06-02,1,Mexican,14,3.5
+2,Xavier Raju,ishwarjayaraman@example.com,5249148398,"H.No. 207, Sani Circle, Dibrugarh-583864",2024-04-19,0,Mexican,32,3.5
+3,Gautami Tella,robertbrar@example.com,05927371744,"H.No. 845, Dash Marg
+Ichalkaranji-073107",2025-11-08,1,Chinese,1,4.8
+4,Zashil Buch,frederickmanne@example.net,04984203459,"H.No. 81, Amble Nagar, Siwan 505672",2025-07-20,1,Mexican,46,3.9
+5,Vinaya Wali,bavapriya@example.com,07739625207,"H.No. 572
+Thakur Road, Khammam 591465",2024-09-05,0,Chinese,5,3.7
+6,Jasmit Mani,gbhatt@example.com,5330515931,"H.No. 642, Zachariah Path, Deoghar 909405",2024-09-03,0,Chinese,33,4.1
+7,Bakhshi Chauhan,ranbirkadakia@example.org,+919999885640,"38/01
+Krishna Path, Kurnool 166938",2025-06-19,1,Chinese,44,4.6
+8,Samar Rajagopal,kacharya@example.org,4798847746,"20, Kapoor Zila, Malda 726379",2025-10-18,1,Thai,6,3.5
+9,Balhaar D’Alia,mekhalachand@example.net,+912720176816,"H.No. 15, Rama Nagar
+Mahbubnagar-858160",2024-10-27,0,Indian,6,3.1
+10,Turvi Ratta,wyatt01@example.net,07211746891,"91/517, Batta Chowk
+Sonipat-636348",2026-03-08,1,Chinese,40,4.6
+11,Shaurya Kunda,bhavna66@example.com,2678501972,"H.No. 835
+Sankaran, Raiganj 216763",2024-10-14,1,Indian,31,4.5
+12,Jairaj Tata,utkarsh25@example.com,08116209190,"58/13, Uppal Street, Bhubaneswar 119201",2024-10-18,0,Chinese,36,4.8
+13,Viraj Dugar,kallaaradhana@example.com,02600002991,"H.No. 969
+Mittal Nagar, Mirzapur-834180",2026-02-24,1,Indian,45,4.9
+14,Teerth Bhakta,sawhneychakradhar@example.com,8493420084,"H.No. 683, Manne Zila
+Hubli–Dharwad 533614",2025-12-08,1,Mexican,5,4.9
+15,Sudiksha Gala,golayamini@example.net,7476122013,"61, Hans Path, Bharatpur 245114",2025-11-17,1,Mexican,29,4.3
+16,Ekalinga Chand,shanforum@example.org,01330016049,"37
+Gandhi Street
+Ozhukarai 438251",2026-01-22,1,Indian,37,3.4
+17,Ubika Bhatt,wallanilima@example.net,3511278998,"H.No. 62
+Basak Path, Bilaspur 855900",2025-11-04,1,Chinese,7,3.1
+18,Joshua Walla,qadim24@example.org,07215464570,"H.No. 444
+Prasad Ganj, Thoothukudi-972556",2024-06-13,1,Indian,0,3.2
+19,Alka Babu,garima54@example.com,07288402024,"H.No. 764, Chanda Marg
+Rampur 438186",2024-07-21,1,Mexican,31,3.6
+20,Zayyan Chhabra,walioliver@example.com,04716374966,"94/541
+Borra Zila
+Unnao-723508",2025-08-20,1,Italian,23,4.6
+21,Ishanvi Saha,cdeep@example.net,04198363648,"H.No. 227
+Bose Road, Jorhat-920816",2025-10-18,0,Italian,20,3.2
+22,Kiaan Sule,ebail@example.net,4964036950,"17/65
+Kota Ganj, Alappuzha-655327",2024-10-11,1,Italian,34,3.1
+23,Jeremiah Manne,trivenidubey@example.net,2178170613,"80/408
+Keer Path, Ahmednagar 510953",2024-05-31,0,Mexican,45,4.7
+24,Chasmum Dada,jaggijanani@example.org,+919933514279,"H.No. 448
+Hari, Meerut 206499",2024-12-04,1,Italian,40,4.9
+25,Abdul Swamy,devansh64@example.net,1535054082,"972, Anne Street, Kurnool-823803",2025-06-30,0,Chinese,1,4.7
+26,Pavani Butala,hredhaan81@example.org,04539343859,"55, Bhakta Zila
+Loni 502019",2025-02-23,1,Indian,23,3.6
+27,Adya Boase,samuelpurohit@example.com,09878341462,"48, Goel Ganj, Junagadh-002318",2025-07-23,0,Thai,2,3.4
+28,Chandresh Pingle,viswanathanhemal@example.com,06704222610,"89/09
+Bali Path
+Adoni-775193",2025-01-09,1,Thai,43,4.8
+29,Harita Deo,gaurirau@example.net,06550174107,"26/370
+Kohli Street, Katni 106927",2025-09-07,1,Indian,46,3.8
+30,Yashoda Randhawa,biswasisaac@example.net,+914053401358,"84/559
+Verma Marg
+Rajahmundry-082744",2026-04-15,1,Thai,23,4.8
+31,Aayush Jhaveri,tamannakade@example.com,03506791118,"H.No. 35
+Balan Nagar
+Hapur 901524",2025-11-01,1,Italian,35,3.5
+32,Jalsa Chaudry,sbhatt@example.com,7377495271,"H.No. 82, Din Street
+Kakinada-487782",2024-09-22,1,Mexican,9,4.0
+33,Agastya Acharya,wjohal@example.com,+917825246353,"98/003, Konda Ganj
+Loni-064244",2024-12-01,1,Italian,19,3.8
+34,Falan Arya,jhaaayush@example.com,0375376786,"H.No. 74
+Sachar Ganj, Berhampore 195012",2024-10-24,0,Chinese,27,4.7
+35,Wriddhish Varughese,theodore82@example.net,03055214758,"35
+Gour Street, Jabalpur 310859",2026-01-20,0,Chinese,24,4.5
+36,Ekbal Brahmbhatt,liamvyas@example.net,08497384897,"076, Jain Circle
+Sangli-Miraj & Kupwad 999371",2024-08-08,0,Mexican,40,4.0
+37,Warda Bava,ikshita79@example.org,04134221506,"44/354
+Sethi Marg, Bharatpur-960283",2025-12-04,1,Mexican,13,4.4
+38,Viraj Mitra,tanmayi37@example.com,+914470751541,"H.No. 81, Warrior Circle, Mirzapur-484479",2024-09-30,1,Mexican,13,3.6
+39,Geetika Ghose,krish17@example.com,5799546322,"20/49
+Mani Marg
+Aligarh-953671",2025-09-03,0,Italian,18,4.4
+40,Adweta Ramakrishnan,ksrivastava@example.com,06257907144,"53/119
+Raman Chowk, Panchkula-873078",2026-03-20,0,Chinese,8,4.4
+41,Yashodhara Manne,adya68@example.com,+911887751991,"56/58, Halder, Jorhat-131306",2025-10-02,1,Italian,0,3.1
+42,Hredhaan Bora,wriddhishpanchal@example.net,8555241925,"H.No. 094
+Garg Road
+Ujjain-971612",2025-04-07,1,Thai,50,4.0
+43,Bhavya Seth,arjunkade@example.org,5760453977,"29/82
+Gade Circle, Ambarnath 511133",2024-10-22,0,Mexican,50,4.6
+44,Devansh Karnik,veer21@example.com,6824672820,"64/78
+Tak Road, Coimbatore-481737",2025-04-01,0,Indian,36,3.9
+45,Zinal Parmer,avora@example.org,04713376877,"H.No. 87, Ramanathan Ganj, Jammu 255927",2025-03-08,1,Thai,30,3.7
+46,Nitesh Rau,ghayer@example.net,03850355734,"04/57
+Babu Zila, Amravati-527426",2026-04-04,0,Indian,49,4.4
+47,Azad Som,ubikagarg@example.com,00938242694,"04/77
+Bhatnagar Nagar
+Bareilly-936698",2025-08-27,0,Italian,33,4.9
+48,Shaurya Bhagat,vivaanchaudhuri@example.com,0561399126,"243, Gara Path
+Jaipur 650815",2024-10-30,1,Chinese,42,4.8
+49,Baljiwan Sur,shashravya@example.com,9199110656,"54
+Badami Nagar, Narasaraopet 224152",2024-07-05,0,Chinese,34,4.1
+50,Kabir Balasubramanian,aditya49@example.net,01678669941,"70/668
+Anne Nagar, Mahbubnagar-999346",2025-09-03,0,Thai,28,4.4
+51,Kabir Date,munimekhala@example.com,+911981544287,"39/230
+Pandey Zila, Bongaigaon 349162",2026-03-31,1,Italian,31,3.7
+52,Keya Chaudhry,omajalad@example.net,+912015612432,"31/34
+Handa Marg, Agartala 474290",2025-08-26,1,Thai,24,4.7
+53,Darika Dugar,fwalla@example.net,+915155908749,"79/09, Purohit Marg, Farrukhabad-880297",2024-05-12,1,Indian,38,4.4
+54,Amara Parsa,qasim81@example.org,5974060895,"38/10, Saran Nagar
+Nagaon 425243",2025-12-14,1,Chinese,32,3.0
+55,Gautam Sachdeva,karaayush@example.org,02145470517,"277, Vora Path
+Mathura 543667",2025-01-16,0,Indian,40,4.4
+56,Daniel Kibe,wmunshi@example.com,09626439185,"12
+Banerjee Marg, Tadipatri 897552",2026-03-03,1,Thai,34,3.7
+57,Deepa Handa,yrajagopal@example.net,7564876869,"34, Kakar Chowk, Amritsar-064646",2024-07-13,1,Thai,27,4.9
+58,Vaishnavi Natt,mangalsai@example.org,7797517150,"H.No. 02
+Madan
+Solapur 347206",2025-08-22,1,Indian,43,4.2
+59,Abdul Nayak,tanejajatin@example.net,03167685127,"H.No. 741
+Sur Ganj
+Panihati-680373",2024-11-22,1,Chinese,20,3.5
+60,Riya Kar,ayushmunshi@example.net,+918730459062,"H.No. 10, Chakrabarti Path
+Danapur 069725",2024-12-27,0,Mexican,18,4.9
+61,Jagvi Kakar,falan81@example.org,+919081397287,"84/896, Divan Path
+Bihar Sharif 410720",2024-06-07,1,Mexican,45,4.9
+62,Sarthak Bhatnagar,phayer@example.net,02779466324,"33/54, Yadav Nagar
+Belgaum-989518",2025-04-15,0,Indian,50,4.9
+63,Anthony Puri,dnaidu@example.net,09293643022,"H.No. 774
+Dua Path
+Morena-726825",2024-11-29,1,Chinese,42,3.2
+64,Ubika Bhagat,vermatejas@example.com,03617065783,"06/05, Ganguly Chowk, Orai 838101",2024-12-19,0,Italian,8,4.7
+65,Rudra Saxena,mitalichand@example.com,0779938717,"28/77, Mukherjee Chowk, Ramagundam-940761",2024-07-21,1,Indian,17,3.1
+66,Dhriti Venkataraman,fpatel@example.com,+913068934275,"H.No. 83
+Sama Path
+Malda 846581",2025-03-06,0,Indian,32,4.4
+67,Max Munshi,ishanvisingh@example.org,08089669002,"75/54, Kar Street
+Deoghar-559166",2024-10-25,1,Indian,45,4.1
+68,Baljiwan Mander,wkeer@example.net,+917128657380,"43/20
+Khatri, Sonipat-361650",2024-07-06,1,Thai,34,4.5
+69,Shivansh Rout,bawalipika@example.org,07609125261,"H.No. 51
+Palla Path, Katihar-096653",2025-09-19,0,Thai,8,3.1
+70,Veer Jhaveri,elijahnazareth@example.net,+914762693564,"H.No. 192, Bansal Circle
+Agartala-802971",2024-08-12,0,Indian,23,4.9
+71,Gautam Chanda,osha06@example.org,9264816050,"79/066, Khosla Marg
+Suryapet 579335",2025-03-02,0,Indian,2,3.8
+72,Advik Singh,ryansubramaniam@example.com,07267484055,"97
+Barman, Chennai-656296",2025-03-26,1,Chinese,13,4.0
+73,Parth Thakur,wsen@example.net,+917783312890,"09/804, Sood Nagar
+Raebareli 003734",2024-08-13,1,Italian,29,3.9
+74,Darika Dalal,avni14@example.org,7864237102,"20/29
+Chakraborty Street, Bhagalpur 166736",2025-03-16,1,Thai,32,3.5
+75,Upkaar Parmar,wakeetavenkatesh@example.net,+911485771289,"04
+Luthra Chowk
+Haldia-438715",2025-12-16,1,Mexican,7,4.0
+76,Siddharth Gala,libniratti@example.org,00844816853,"93/37
+Muni
+Ujjain 483503",2024-09-02,1,Thai,24,3.4
+77,Umang Nagar,dayamai79@example.com,+911342988626,"230
+Sachdev Zila
+Kurnool-430254",2025-04-15,1,Italian,35,3.6
+78,Gavin Tank,msarkar@example.net,05654190139,"99/72
+Keer Nagar, Satara-247249",2024-07-03,0,Thai,37,3.2
+79,Harinakshi Shanker,tkale@example.org,06907606675,"H.No. 807, Sur Street, Tadepalligudem 425435",2025-01-05,1,Indian,4,3.5
+80,Raksha Sekhon,warhivarughese@example.net,09594652044,"43
+Baria Marg, Alwar 726119",2025-12-08,0,Indian,29,3.3
+81,Nidhi Sekhon,sampathwaida@example.net,+912615601336,"H.No. 362
+Dube Nagar, Tirunelveli 019621",2024-10-15,1,Italian,31,3.5
+82,Jagvi Lalla,zinal07@example.com,+910993905519,"73/21, Sarraf Path
+Rajkot 142255",2025-04-04,1,Indian,11,4.3
+83,Amara Vasa,ayushman20@example.net,04718941355,"00/675, Kaur Road, Gwalior-241117",2024-12-28,1,Mexican,42,4.0
+84,Nathaniel Chadha,bajajbakhshi@example.org,9495846315,"84/453
+Raju Path
+Bhavnagar-753515",2026-02-02,0,Chinese,27,4.0
+85,Ekapad Bala,sarkarjonathan@example.com,6004468899,"82/392
+Sura Road
+Udupi-332067",2024-05-25,1,Chinese,4,4.7
+86,Banjeet Pillay,kpadmanabhan@example.com,07996937682,"H.No. 29, Tiwari Ganj
+Panchkula-684839",2025-11-16,0,Chinese,8,3.6
+87,Faqid Deshmukh,gautamithakur@example.org,+918814140456,"H.No. 10, Badami Ganj, Dhule 658277",2026-02-10,1,Chinese,25,3.2
+88,Gaurang Ganesan,damyanticheema@example.net,+917468054898,"H.No. 588, Kashyap Nagar, Chandigarh 518506",2024-11-24,1,Thai,32,3.3
+89,Rajeshri Bajaj,osha28@example.net,02994013249,"84/03
+Doshi Road, Dharmavaram-058305",2025-03-04,0,Mexican,25,3.9
+90,Azad Vohra,butalamugdha@example.net,8813622656,"40/387, Wagle Street
+Akola-696581",2024-08-04,1,Italian,12,3.8
+91,Vanya Desai,xbalay@example.org,3033197398,"404, Khalsa Ganj, Ulhasnagar-642639",2025-05-14,1,Thai,31,3.6
+92,Maanav Shere,handadalaja@example.com,+912252412452,"058
+Parekh
+Mysore-621099",2025-01-07,0,Thai,42,4.1
+93,Pooja Uppal,dyadav@example.com,00490803848,"492
+Bal Marg, Gwalior-499578",2025-11-17,1,Italian,28,4.9
+94,Brinda Chada,pratyushsankaran@example.net,6306666101,"H.No. 66
+Kota Circle, Pimpri-Chinchwad-936886",2025-03-31,1,Italian,23,4.3
+95,Yug Shankar,qabilgokhale@example.net,+911461031159,"H.No. 850
+Palla Road
+Kolkata-135674",2025-04-21,0,Chinese,24,4.9
+96,Yuvraj Srivastava,girindralalla@example.com,+912166534692,"84/954, Mistry Marg, Kadapa 682676",2025-12-15,0,Indian,22,4.1
+97,Charita Chada,dayitavarma@example.net,+910090927499,"73/11, Master Path, Jabalpur-027804",2026-02-10,1,Thai,11,3.8
+98,Chakradhar Ram,kharebalvan@example.com,+915864673098,"59
+Shere Street, Bhusawal 676381",2025-01-11,0,Chinese,45,4.7
+99,Zinal Saxena,ndhillon@example.com,06744101469,"943, Date Marg
+Morbi-270023",2026-03-25,1,Indian,9,3.9
+100,Indira Bal,naveennarayan@example.net,+914760798377,"H.No. 25, Sama Road, Panchkula-205138",2024-12-01,1,Italian,33,4.2
+101,Madhav Saha,gerazashil@example.org,0061551309,"57/37, Trivedi Street, Surendranagar Dudhrej 289699",2024-11-01,0,Chinese,40,3.9
+102,Frado Chahal,anamika74@example.org,1373593705,"61, Sridhar Marg, Rajkot-403803",2025-04-01,1,Mexican,3,4.2
+103,Zansi Chaudhry,ati54@example.com,8866599834,"H.No. 022
+Hans Nagar, Sikar 266364",2024-08-17,1,Indian,8,3.7
+104,Arya Arya,ekbalbhatti@example.com,2551049035,"00/859
+Raman Ganj, Gandhinagar-894627",2024-08-23,0,Thai,24,4.3
+105,Abhiram Dhawan,tanvidora@example.com,09431515361,"342
+Pandya Chowk
+Pondicherry-327506",2025-05-02,0,Italian,46,4.2
+106,Lohit Dani,ravidominic@example.com,7734161233,"H.No. 529
+Narula Zila, Raipur-681345",2025-09-04,1,Chinese,37,4.4
+107,Janani Prashad,raghavagate@example.org,04914778036,"16, Varma
+Gopalpur-048340",2025-10-26,1,Thai,6,4.9
+108,Baghyawati Sathe,inayabehl@example.net,8443585696,"074, Chhabra Street, Akola 148370",2024-07-10,0,Mexican,41,3.6
+109,Agastya Jayaraman,nbutala@example.org,0055220550,"H.No. 268
+Nigam Circle
+Kurnool 024983",2026-04-15,1,Chinese,1,3.7
+110,Matthew Shetty,edeol@example.org,01606993242,"995, Mahajan Path, Thoothukudi 009187",2025-11-07,1,Thai,3,4.2
+111,Zansi Sachdev,revaagrawal@example.com,6658712678,"377
+Murthy Chowk
+Nashik 411149",2024-07-01,0,Italian,36,4.8
+112,Faraj Saha,balandarsh@example.com,3020758922,"23, Shankar Street, Gudivada 139782",2025-05-27,1,Mexican,32,4.2
+113,Eiravati Deol,ekansh56@example.org,3664919150,"73/54
+Chawla Nagar, Kadapa 335694",2024-05-09,0,Chinese,27,4.8
+114,Triveni Nadig,veer04@example.com,05132586503,"37, Deep Marg, Bahraich-203638",2024-07-06,1,Italian,46,4.7
+115,Zilmil Lal,munshitanmayi@example.net,02386987948,"757
+Krishnamurthy Zila
+Asansol 498755",2024-07-30,1,Thai,43,3.6
+116,Gaurangi D’Alia,faristella@example.net,+915197585279,"769
+Chandra Nagar, Dharmavaram-494537",2025-09-30,0,Thai,48,4.2
+117,Kashvi More,ravalchandani@example.net,+914447727711,"73, Hans Nagar
+Vasai-Virar-957231",2025-04-28,0,Thai,13,4.6
+118,Zehaan Doshi,kapursiya@example.org,+919639537716,"H.No. 209, Bala Ganj, Madanapalle 643307",2024-08-08,0,Indian,20,3.4
+119,Chandran Nazareth,bhattkritika@example.com,+915673743807,"00
+Solanki Chowk
+Hazaribagh 697515",2025-02-12,0,Chinese,26,3.2
+120,William Batra,bainslohit@example.com,+915357939632,"H.No. 511, Ahuja Ganj
+Nagaon 625072",2025-11-21,0,Chinese,30,4.7
+121,Tanish Talwar,tandonaishani@example.com,+912693290279,"H.No. 479
+Kashyap Marg, Bhalswa Jahangir Pur-154410",2024-11-03,0,Chinese,15,4.3
+122,Aditya Bhasin,loyalbhavani@example.net,2055563431,"85/966
+Arora Road
+Mira-Bhayandar-795174",2025-01-06,1,Chinese,34,4.2
+123,Yagnesh Sinha,yborra@example.com,5696734810,"H.No. 116, Dutt Circle, Anantapur 418921",2024-06-21,1,Thai,10,3.2
+124,Lakshit Gill,guneet39@example.com,0666573079,"98/372, Magar Road, Thoothukudi 762864",2025-09-11,1,Chinese,4,3.6
+125,Frederick Shanker,srinivasforum@example.com,+914514841656,"46/497
+Malhotra, Panvel-239114",2025-07-16,0,Chinese,9,3.6
+126,Chanchal Khare,lukeom@example.org,+911415895656,"46/890, Loyal Road, Sambhal 293416",2025-01-01,1,Chinese,24,4.1
+127,Ethan Krishna,anay09@example.net,+917784764467,"76/73, Bhavsar Ganj
+Mira-Bhayandar 917084",2025-02-25,1,Indian,4,3.7
+128,Bhavika Saran,gandhibrinda@example.net,05908679118,"310, Nagar Path, Surendranagar Dudhrej-682353",2025-05-29,0,Italian,13,4.5
+129,Odika Bahri,bgole@example.org,+915549674602,"H.No. 552, Sarraf Nagar, Kurnool-441407",2024-10-13,0,Mexican,1,4.8
+130,Bhavini Kurian,ucchalmangat@example.com,+910485540304,"533
+Ravel Zila
+Warangal-212101",2025-09-04,0,Italian,39,4.3
+131,Kashish Patil,fariqbatra@example.net,07375502413,"02/502
+Dasgupta Path
+Amravati-243988",2024-10-26,0,Indian,12,4.2
+132,Diya Bahl,savantnidhi@example.com,5138791939,"046
+Mangat Ganj, Jammu 779191",2026-03-02,1,Indian,38,3.2
+133,Sarthak Sarma,esharma@example.net,+910445508634,"51/71
+Tak Road
+Siliguri-639381",2024-08-20,0,Indian,33,4.2
+134,Zarna Anne,aggarwalvasatika@example.org,+913288284694,"68/322, Kapoor Path, Ulhasnagar-079480",2024-06-13,1,Thai,34,4.4
+135,Ishani Nadig,kamya12@example.org,03846304319,"H.No. 71
+Zacharia Zila, Berhampur-874958",2025-10-11,0,Thai,33,4.2
+136,Balhaar Shankar,kritikadeol@example.net,+911828857899,"H.No. 522
+Keer Zila
+Bhusawal 001015",2024-06-12,1,Indian,14,3.9
+137,Janya Balan,misraosha@example.org,5373349354,"H.No. 542
+Kohli Street, Kulti-604881",2025-07-13,0,Thai,25,3.5
+138,Samar Sule,bchaudhuri@example.org,+914545930660,"H.No. 14
+Raja Road, Loni 913023",2025-08-13,1,Indian,13,3.9
+139,Anika Deshpande,adesai@example.net,3316626501,"97/770, Sandhu Road, Vadodara 889437",2026-02-26,1,Thai,37,4.5
+140,Faras Sathe,dev08@example.com,09299316474,"740, Mander Chowk, Tadipatri-961827",2025-06-04,0,Chinese,20,3.7
+141,Rachita Sarin,qguha@example.com,+912915264589,"37/91
+Nigam Ganj
+Delhi 320494",2025-07-17,0,Indian,41,3.5
+142,Amruta Karpe,thakerekantika@example.org,03492114339,"230
+Upadhyay Nagar, New Delhi-290817",2024-05-18,0,Thai,22,3.7
+143,Mitali Gera,sakshamchand@example.com,8707837126,"83/814
+Basu Road, Nashik-052960",2024-08-04,1,Thai,12,3.7
+144,Udarsh Koshy,fdada@example.com,4353690859,"11/657
+Sami, Tiruppur-818568",2024-06-05,0,Indian,26,3.9
+145,Avi Yogi,champakbhatia@example.com,08900718218,"01/807
+Sahni Nagar
+Tumkur 182652",2024-05-06,1,Thai,32,4.1
+146,Falguni Srinivas,tailorchaman@example.net,3325645062,"25, Kota Chowk
+Katihar-609682",2025-07-01,1,Italian,34,4.0
+147,Kritika Kulkarni,wpandya@example.org,4339616552,"42, Narula Nagar
+Gulbarga-639317",2025-02-19,0,Chinese,15,3.5
+148,Siya Kunda,bainsnihal@example.com,07226794172,"H.No. 155
+Prasad Zila, Machilipatnam 892079",2025-04-10,1,Indian,18,3.0
+149,Lila Bhargava,sandaltejas@example.com,+916526904159,"106, Hayer Chowk, Dharmavaram 077132",2026-01-28,1,Chinese,32,3.6
+150,Ekavir Borah,ajohal@example.net,3572912775,"H.No. 42
+Oak Road
+Rajpur Sonarpur 896719",2024-09-16,0,Indian,8,4.1
