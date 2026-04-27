@@ -1,6 +1,5 @@
 customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
-1,Tanay Vig,bajajurvi@example.org,04256090435,"942, Chaudhari Chowk
-Haldia 730999",2025-06-02,1,Mexican,14,3.5
+1,Tanay Vig,bajajurvi@example.org,04256090435,"942, Chaudhari ChowkHaldia 730999",2025-06-02,1,Mexican,14,3.5
 2,Xavier Raju,ishwarjayaraman@example.com,5249148398,"H.No. 207, Sani Circle, Dibrugarh-583864",2024-04-19,0,Mexican,32,3.5
 3,Gautami Tella,robertbrar@example.com,05927371744,"H.No. 845, Dash Marg
 Ichalkaranji-073107",2025-11-08,1,Chinese,1,4.8

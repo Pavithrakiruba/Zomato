@@ -17,7 +17,6 @@ except Exception as e:
 cursor = conn.cursor()
 
 '''
-# ✅ Read CSV
 df = pd.read_csv("D:/Zomato_Food/customers.csv")
 print("CSV rows:", len(df))
 print(df.head())
@@ -29,9 +28,6 @@ df['signup_date'] = df['signup_date'].dt.strftime('%Y-%m-%d')
 
 df['is_premium'] = df['is_premium'].astype(int)
 df = df.where(pd.notnull(df), None)
-
-
-# ✅ Correct column order
 cols = [
     'customer_id','name','email','phone','location',
     'signup_date','is_premium','preferred_cuisine',
@@ -48,16 +44,12 @@ INSERT INTO customer_detail
 (customer_id, name, email, phone, location, signup_date, is_premium, preferred_cuisine, total_orders, average_rating) 
 VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
 """
-# ✅ Bulk insert
 try:
     cursor.executemany(insert_query, data)
     conn.commit()
-    print("✅ Bulk inserted:", cursor.rowcount)
+    print("Bulk inserted:", cursor.rowcount)
 except Exception as e:
-    print("❌ ERROR:", e)
-
-
-# ✅ Close at END only
+    print("ERROR:", e)
 cursor.close()
 conn.close()
 
@@ -67,7 +59,6 @@ df1= pd.read_csv("D:/Zomato_Food/Restaurant.csv")
 print("CSV rows:", len(df1))
 print(df1.head())
 
-# ✅ Correct column order
 cols = [
     'restaurant_id','restaurant_name','cuisine_type','location','owner_name','average_delivery_time',
     'contact_number','rating','total_orders','is_active'
@@ -89,9 +80,6 @@ try:
     print("✅ Bulk inserted:", cursor.rowcount)
 except Exception as e:
     print("❌ ERROR:", e)
-
-
-# ✅ Close at END only
 cursor.close()
 conn.close()
 
@@ -135,7 +123,7 @@ try:
 except Exception as e:
     print("Error:",e)
     cursor.close()
-    conn.close()'''
+    conn.close()
 # Delivery person table insertion
 df4=pd.read_csv("D:/zomato_food/Delivery_person_table.csv")
 print("CSV rows:",len(df4))
@@ -155,4 +143,4 @@ try:
 except Exception as e:
     print("Error:",e)
     cursor.close()
-    conn.close()
+    conn.close()'''
